@@ -1,1 +1,5 @@
-[]
+github:                         
+  user_or_org: alexlib
+channels:
+  targets:
+    - [openpiv-python, main]
